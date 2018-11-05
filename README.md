@@ -11,11 +11,7 @@ To create a smart home application which would use sensors such as temperature, 
 
 ## Project Flow:  
 ![Project flow](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Project_flow.PNG)  
-## Snippets for Mobile notification, text message and emails:  
-![email if fire occurs](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Mobile_email_text_notification_snippets/Gmail_if_fire_occurs.jpg)  
-![Mobile notification warning](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Mobile_email_text_notification_snippets/Mobile_notification_warning.jpg)  
-![Mobile text warning](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Mobile_email_text_notification_snippets/Mobile_text_warning.jpg)  
-![text if fire occurs](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Mobile_email_text_notification_snippets/Text_if_fire_occurs.jpg)  
+  
 ## Links:  
 [Link for Video]()  
 [Link for Android App](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/apk/IoTUMKCHackaroo.apk)    
