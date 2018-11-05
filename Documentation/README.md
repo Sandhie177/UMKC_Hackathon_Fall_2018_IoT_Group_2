@@ -1,5 +1,6 @@
 # UMKC_Hackathon_Fall_2018_IoT_Group_2
 
+# Smart Home Application with Fire Fighting Robot  
 ## Materials Required:  
 * Robot Chasis  
 * DC motor (2)  
