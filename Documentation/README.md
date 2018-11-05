@@ -1,13 +1,21 @@
 # UMKC_Hackathon_Fall_2018_IoT_Group_2
 
-# Objectives:  
-To create a smart home application which would use sensors such as temperature, air, pressure, fire and motion sensor and use all of them together to make a firefighting robot. The system will able to generate notification via Text message, email, Android or Web-application.  
-## Goals:  
-* Use the Sensor Tag (Humidity, Temperature etc) on Arduino or Raspberry platform.  
-* Visualize all the sensor data via Node-red dashboard.
-* Create an event based on the sensor data.
-* Send notification via text message, email, Android or Web-application.  
-* Integrate the above mentioned sensor to make an emergency firefighting robot.  
+## Materials Required:  
+* Robot Chasis  
+* DC motor (2)  
+* Servo Motot (2)  
+* Flame Sensor  
+* Arduino Motor Shield  
+* ESP 8266 WIFI module  
+* Wheels  
+* Sensor Tag
+* Water container 
+* LEDs
+* Breadboard   
+* Connectors  
+* Resistors  
+* Arduino Board   
+* Raspberry Pi  
 
 ## Project Flow:  
 * To extract the sensor data (Humadity, Pressure and Temperature) from the sensor.
@@ -30,12 +38,12 @@ Using a good number of flame sensors and using more powerful motors and wheels c
 * We were able to turn on and off few LEDs which represents the home appliances like Air Conditioner, Light and Fan. Testing was not done with original devices.  
 * Also we only turned on and off the devices, but we did not control the levels on those devices, e.g. controlling the temperature on the AC.  
 **Solution:**  
-* With proper voltage adjustments, it will be possible to control real devices.  
-* More 
+* With proper controlling circuitry, it will be possible to control real devices. And also the parameters on those device can also be changed.
+
 
 ## Links:    
 [Link for Video]()  
-[Link for source code]()  
+[Link for Arduino source code]()  
 [Link for powerpoint slide](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-light-automation.pptx/)  
 [Link for android app]()  
 
