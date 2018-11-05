@@ -31,6 +31,7 @@
 ### **Fire Fighting Robot:**
 * The sensing of the fire is a bit tedious due to the limited number of Infra-Red (IR) flame sensors. As we used only one sensor to detect the fire, we had to use a servo motor which can rotate the sensor 180 degree and detect the fire.  
 * The range of the flame sensor is about 3 feet, so it cannot detect the fire which is far away.  
+* As we weren't given any water pump, we had to use servo motor to pour water over fire.  
 * Due to the lightness of the whole structure, water weight disrupts the motion of the robot.   
 **Solution:**  
 Using a good number of flame sensors and using more powerful motors and wheels can minimize the above mentioned limitations.  
