@@ -10,18 +10,4 @@ To create a smart home application which would use sensors such as temperature, 
 * Integrate the above mentioned sensor to make an emergency firefighting robot.  
 
 ## Project Flow:  
-* To extract the sensor data (Humadity, Pressure and Temperature) from the sensor.
-* Use node red to upload the data to firebase.
-* View those data remotely via a mobile app.  
-* Control the AC, Fan and Light through the app remotely.  
-* If any of the weather condition goes above safety limit, send a mobile notification and also send an email.  
-* If there is a fire at home, the fire robot will sense the fire and put-out the fire.  
-* A buzzer will make sound if there is any fire.  
-* And a mobile notification and an email will be sent about the fire.  
-
-## Links:    
-[Link for Video]()  
-[Link for source code]()  
-[Link for powerpoint slide](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-light-automation.pptx/)  
-[Link for android app]()  
-
+[Project flow](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/Project_flow.PNG)
