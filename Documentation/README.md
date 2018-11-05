@@ -20,13 +20,13 @@ To create a smart home application which would use sensors such as temperature, 
 * And a mobile notification and an email will be sent about the fire.  
 
 ## Limitations:
-**### Fire Fighting Robot:**
+### **Fire Fighting Robot:**
 * The sensing of the fire is a bit tedious due to the limited number of Infra-Red (IR) flame sensors. As we used only one sensor to detect the fire, we had to use a servo motor which can rotate the sensor 180 degree and detect the fire.  
 * The range of the flame sensor is about 3 feet, so it cannot detect the fire which is far away.  
 * Due to the lightness of the whole structure, water weight disrupts the motion of the robot.   
 **Solution:**  
 Using a good number of flame sensors and using more powerful motors and wheels can minimize the above mentioned limitations.  
-**### Mobile Application:**  
+### **Mobile Application:**  
 * We were able to turn on and off few LEDs which represents the home appliances like Air Conditioner, Light and Fan. Testing was not done with original devices.  
 * Also we only turned on and off the devices, but we did not control the levels on those devices, e.g. controlling the temperature on the AC.  
 **Solution:**  
