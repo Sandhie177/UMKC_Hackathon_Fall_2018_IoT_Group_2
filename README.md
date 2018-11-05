@@ -12,7 +12,9 @@ To create a smart home application which would use sensors such as temperature, 
 ## Project Flow:  
 ![Project flow](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/Project_flow.PNG)  
 ## Links:  
+[Link for Video]()
 [Link for Android App]()  
-[Link for Arduino Source Code]()  
+[Link for Power point slide]()
+[Link for Arduino Source code]()  
 [Link for Node red FLow]()  
 [Link for App inventor code]()
