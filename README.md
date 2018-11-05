@@ -15,7 +15,7 @@ To create a smart home application which would use sensors such as temperature, 
 ## Links:  
 [Link for Video]()  
 [Link for Android App](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/apk/IoTUMKCHackaroo.apk)    
-[Link for Power point slide]()  
+[Link for Power point slide](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-Device-Automation.pptx)  
 [Link for Arduino Source code](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/Codes/Arduino/Arduino_code_fire_fighting_robot.ino)  
 [Link for Node red Flow](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/Codes/Node%20red/Node_red_flow.txt)   
 [Link for App inventor code](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/Codes/App_inventor_weather/IoTUMKCHackaroo_App_code.aia)  
