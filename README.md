@@ -11,10 +11,6 @@ To create a smart home application which would use sensors such as temperature, 
 
 ## Project Flow:  
 ![Project flow](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Project_flow.PNG)   
-
-## Platform Used:  
-* Raspberry PI (for Node-red and App inventor)
-* Arduino Uno (Fire Fighting Robot)
   
 ## Links:  
 [Link for Video]()  
