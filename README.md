@@ -1,20 +1,20 @@
 # UMKC_Hackathon_Fall_2018_IoT_Group_2  
 
-# IoT Smart Home Application with Fire Fighting Robot
+## IoT Smart Home Application with Fire Fighting Robot
 
-# Objectives:  
+## Objectives:  
 To create a smart home application which would use sensors such as temperature, air, pressure, fire and motion sensor and use all of them together to make a firefighting robot. The system will able to generate notification via Text message, email, Android or Web-application.  
-## Goals:  
+### Goals:  
 * Use the Sensor Tag (Humidity, Temperature etc) on Arduino or Raspberry platform.  
 * Visualize all the sensor data via Node-red dashboard.
 * Create an event based on the sensor data.
 * Send notification via text message, email, Android or Web-application.  
 * Integrate the above mentioned sensor to make an emergency firefighting robot.  
 
-## Project Flow:  
+### Project Flow:  
 ![Project flow](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Visualization/Project_flow.PNG)   
   
-## Links:  
+### Links:  
 [Link for Video]()  
 [Link for Android App](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/apk/IoTUMKCHackaroo.apk)    
 [Link for Power point slide](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-Device-Automation.pptx)  
