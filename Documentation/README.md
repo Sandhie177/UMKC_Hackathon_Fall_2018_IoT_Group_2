@@ -18,7 +18,7 @@
 * Arduino Board   
 * Raspberry Pi  
 
-## Project Flow:  
+## Methodology:  
 * To extract the sensor data (Humadity, Pressure and Temperature) from the sensor.
 * Use node red to upload the data to firebase.
 * View those data remotely via a mobile app.  
@@ -27,6 +27,16 @@
 * If there is a fire at home, the fire robot will sense the fire and put-out the fire.  
 * A buzzer will make sound if there is any fire.  
 * And a text message and an email will be sent about the fire.  
+
+## Feature:  
+* Visualization and control of the temperature, pressure and humidity of the home from a remote place.
+* Sending of an email if the temperature, pressure or humidity goes above a certain set value
+* Sensing a fire if there is one and sending a text message via twilio to the home owner.
+* Putting out the fire by splashing water to the fire affected areas in the given proximity.
+* Making a high pitched sound in case of fire which can warn the nearby people.  
+* Controlling the AC, fans, lights via one button build in MIT app inventor application.
+* Economic and cost effective design for a safe environment at home.
+
 
 ## Limitations:
 ### **Fire Fighting Robot:**
