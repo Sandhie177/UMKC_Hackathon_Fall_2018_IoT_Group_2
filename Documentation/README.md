@@ -18,6 +18,10 @@
 * Arduino Board   
 * Raspberry Pi  
 
+## Platform Used:  
+* Raspberry PI (for Node-red and App inventor)
+* Arduino Uno (Fire Fighting Robot)
+
 ## Methodology:  
 * To extract the sensor data (Humadity, Pressure and Temperature) from the sensor.
 * Use node red to upload the data to firebase.
