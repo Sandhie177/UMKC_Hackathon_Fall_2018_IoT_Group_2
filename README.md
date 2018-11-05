@@ -19,7 +19,7 @@ To create a smart home application which would use sensors such as temperature, 
 * A buzzer will make sound if there is any fire.  
 * And a mobile notification and an email will be sent about the fire.  
 
-## links:    
+## Links:    
 [Link for Video] ()  
 [Link for source code] ()  
 [Link for powerpoint slide] ()  
