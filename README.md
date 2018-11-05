@@ -22,6 +22,6 @@ To create a smart home application which would use sensors such as temperature, 
 ## Links:    
 [Link for Video] ()  
 [Link for source code] ()  
-[Link for powerpoint slide] (https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-light-automation.pptx/)  
+[Link for powerpoint slide](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-light-automation.pptx/)  
 [Link for android app] ()  
 
