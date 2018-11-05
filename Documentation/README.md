@@ -60,7 +60,7 @@ With proper controlling circuitry, it will be possible to control real devices. 
 
 
 ## Links:    
-[Link for Video]()  
+[Link for Video]()    
 [Link for Android App](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/apk/IoTUMKCHackaroo.apk)    
 [Link for Power point slide](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/IOT-SMART-HOME-Firebot-and-Device-Automation.pptx)  
 [Link for Arduino Source code](https://github.com/Sandhie177/UMKC_Hackathon_Fall_2018_IoT_Group_2/blob/master/Documentation/Codes/Arduino/Arduino_code_fire_fighting_robot.ino)  
